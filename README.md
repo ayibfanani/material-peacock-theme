@@ -12,6 +12,6 @@ After that you can edit your sublime settings file to use the theme:
 ```
 
 # Screenshots
-(http://i.imgur.com/ROToARd.png)
-(http://i.imgur.com/yWRsA35.png)
+![Panel](http://i.imgur.com/ROToARd.png)
+![Search panel](http://i.imgur.com/yWRsA35.png)
 
