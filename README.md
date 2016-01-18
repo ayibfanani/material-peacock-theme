@@ -12,5 +12,5 @@ Peacocks In Space Color Scheme: http://colorsublime.com/?q=peacocks
 ```
 
 # Screenshots
-![Panel](http://i.imgur.com/ROToARd.png)
-![Search panel](http://i.imgur.com/yWRsA35.png)
+![Panel](http://i.imgur.com/XgdP7Sa.png)
+![Panel](http://i.imgur.com/R0DS1MP.png)
