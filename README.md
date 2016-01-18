@@ -1,12 +1,12 @@
-Edit I made to the material theme for sublime text to go well with the Facebook color scheme.
-
 Original Repo: https://github.com/equinusocio/material-theme
 
-Facebook Color Scheme: http://colorsublime.com/?q=peacocks
+Peacocks In Space Color Scheme: http://colorsublime.com/?q=peacocks
 
 # Installation
-You can install the theme via the .zip file of this repo, or by cloning it. If you download it via the .zip file, you'll need to extract the "material theme master" folders contents into a folder. Preferably you should store the contents of that folder in a folder named "Material Theme" which would be located in your Packages directory.
-After that you can edit your sublime settings file to use the theme:
+1. Clone or Download this repository inside Package Folder.
+2. Rename "material-peacock-theme" to "Material Theme".
+3. Add text below on Setting-User of Preferences.
+
 ```javascript
 "theme": "Material-Theme.sublime-theme",
 ```
@@ -14,4 +14,3 @@ After that you can edit your sublime settings file to use the theme:
 # Screenshots
 ![Panel](http://i.imgur.com/ROToARd.png)
 ![Search panel](http://i.imgur.com/yWRsA35.png)
-
